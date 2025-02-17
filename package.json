@@ -1,7 +1,6 @@
 {
   "name": "HabitTracker",
   "private": true,
-  "homepage": "https://21mh1a0410.github.io/HabitTracker/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
