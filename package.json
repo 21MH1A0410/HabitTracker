@@ -1,5 +1,6 @@
 {
   "name": "HabitTracker",
+  "private": true,
   "homepage": "https://21mh1a0410.github.io/HabitTracker/",
   "version": "0.0.0",
   "type": "module",
@@ -17,6 +18,7 @@
     "@mui/material": "^6.4.4",
     "@mui/x-date-pickers": "^7.26.0",
     "@reduxjs/toolkit": "^2.5.1",
+    "date-fns": "^2.30.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
